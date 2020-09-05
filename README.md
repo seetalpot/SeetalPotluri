@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dr Seetal Potluri
 
 You can use the [editor on GitHub](https://github.com/seetalpot/SeetalPotluri/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
